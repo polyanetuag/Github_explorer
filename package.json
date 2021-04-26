@@ -1,7 +1,7 @@
 {
   "name": "github_explorer",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.tsx",
   "repository": "https://github.com/polyanetuag/Github_explorer.git",
   "author": "Polyane Tuag <pollyportugues@hotmail.com>",
   "license": "MIT",
